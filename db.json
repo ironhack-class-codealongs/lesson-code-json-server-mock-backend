@@ -9,6 +9,11 @@
       "id": 2,
       "title": "Module 3 Project",
       "description": "Create a full-stack application using MERN stack."
+    },
+    {
+      "id": 3,
+      "title": "Module 4 Project",
+      "description": "Full-stack app with TypeScript and Prisma."
     }
   ],
   "tasks": [
